@@ -1,3 +1,4 @@
 [2026-03-02 15:34:47] Bacolod -> {'error': 'HTTP error: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=Bacolod&appid=YOUR_API_KEY_HERE&units=metric'}
 [2026-03-02 15:37:15] Bacolod -> {'city': 'Bacolod City', 'temperature': 24.66, 'description': 'overcast clouds'}
 [2026-03-02 16:29:15] jhgdd -> {'error': 'HTTP error: 404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=jhgdd&appid=e5c227d27e78efb665e88af7db435e52&units=metric'}
+[2026-03-03 08:58:04] MANILA -> {'city': 'Manila', 'temperature': 27.09, 'description': 'few clouds'}
